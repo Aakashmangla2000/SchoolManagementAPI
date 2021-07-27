@@ -1,0 +1,9 @@
+C:\Users\amangla\source\repos\SchoolSystemApi\StudentSystem.Abstractions\bin\Debug\netcoreapp3.1\StudentSystem.Abstractions.deps.json
+C:\Users\amangla\source\repos\SchoolSystemApi\StudentSystem.Abstractions\bin\Debug\netcoreapp3.1\StudentSystem.Abstractions.dll
+C:\Users\amangla\source\repos\SchoolSystemApi\StudentSystem.Abstractions\bin\Debug\netcoreapp3.1\StudentSystem.Abstractions.pdb
+C:\Users\amangla\source\repos\SchoolSystemApi\StudentSystem.Abstractions\obj\Debug\netcoreapp3.1\StudentSystem.Abstractions.csproj.AssemblyReference.cache
+C:\Users\amangla\source\repos\SchoolSystemApi\StudentSystem.Abstractions\obj\Debug\netcoreapp3.1\StudentSystem.Abstractions.AssemblyInfoInputs.cache
+C:\Users\amangla\source\repos\SchoolSystemApi\StudentSystem.Abstractions\obj\Debug\netcoreapp3.1\StudentSystem.Abstractions.AssemblyInfo.cs
+C:\Users\amangla\source\repos\SchoolSystemApi\StudentSystem.Abstractions\obj\Debug\netcoreapp3.1\StudentSystem.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\amangla\source\repos\SchoolSystemApi\StudentSystem.Abstractions\obj\Debug\netcoreapp3.1\StudentSystem.Abstractions.dll
+C:\Users\amangla\source\repos\SchoolSystemApi\StudentSystem.Abstractions\obj\Debug\netcoreapp3.1\StudentSystem.Abstractions.pdb

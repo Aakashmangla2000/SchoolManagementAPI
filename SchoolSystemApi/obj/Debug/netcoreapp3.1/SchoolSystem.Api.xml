@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SchoolSystem.Api</name>
+    </assembly>
+    <members>
+        <member name="M:SchoolSystem.Api.Controllers.StudentsController.Get">
+            <summary>
+            Get all students
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.StudentsController.GetStudents(System.Int32)">
+            <summary>
+            Get specific student by Roll Number
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.StudentsController.AddStudent(StudentSystem.Abstractions.Models.Student)">
+            <summary>
+            Add new student document
+            </summary>
+            <param name="student"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.StudentsController.UpdateStudent(System.Int32,StudentSystem.Abstractions.Models.Student)">
+            <summary>
+            Update a student document
+            </summary>
+            <param name="id"></param>
+            <param name="student"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.StudentsController.DeleteAll">
+            <summary>
+            Delete all students
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.StudentsController.DeleteStu(System.Int32)">
+            <summary>
+            Delete a specific student
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.TeachersController.Get">
+            <summary>
+            Get all teachers
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.TeachersController.Getteachers(System.Int32)">
+            <summary>
+            Get specific teacher by Roll Number
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.TeachersController.Addteacher(StudentSystem.Abstractions.Models.Teacher)">
+            <summary>
+            Add new teacher document
+            </summary>
+            <param name="teacher"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.TeachersController.Updateteacher(System.Int32,StudentSystem.Abstractions.Models.Teacher)">
+            <summary>
+            Update a teacher document
+            </summary>
+            <param name="id"></param>
+            <param name="teacher"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.TeachersController.DeleteAll">
+            <summary>
+            Delete all teachers
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SchoolSystem.Api.Controllers.TeachersController.DeleteTeacher(System.Int32)">
+            <summary>
+            Delete a specific teacher
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

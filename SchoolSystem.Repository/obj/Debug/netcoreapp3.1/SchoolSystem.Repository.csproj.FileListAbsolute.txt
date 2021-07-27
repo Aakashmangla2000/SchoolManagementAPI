@@ -1,0 +1,12 @@
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\bin\Debug\netcoreapp3.1\SchoolSystem.Repository.deps.json
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\bin\Debug\netcoreapp3.1\SchoolSystem.Repository.dll
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\bin\Debug\netcoreapp3.1\SchoolSystem.Repository.pdb
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\obj\Debug\netcoreapp3.1\SchoolSystem.Repository.csproj.AssemblyReference.cache
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\obj\Debug\netcoreapp3.1\SchoolSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\obj\Debug\netcoreapp3.1\SchoolSystem.Repository.AssemblyInfo.cs
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\obj\Debug\netcoreapp3.1\SchoolSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\obj\Debug\netcoreapp3.1\SchoolSystem.Repository.dll
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\obj\Debug\netcoreapp3.1\SchoolSystem.Repository.pdb
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\bin\Debug\netcoreapp3.1\StudentSystem.Abstractions.dll
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\bin\Debug\netcoreapp3.1\StudentSystem.Abstractions.pdb
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Repository\obj\Debug\netcoreapp3.1\SchoolSystem.Repository.csproj.CopyComplete

@@ -1,0 +1,382 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Tests\\SchoolSystem.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Business\\SchoolSystem.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Business\\SchoolSystem.Business.csproj",
+        "projectName": "SchoolSystem.Business",
+        "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Business\\SchoolSystem.Business.csproj",
+        "packagesPath": "C:\\Users\\amangla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amangla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/NuGet/nuget/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/NuGet/nuget/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/core/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Repository\\SchoolSystem.Repository.csproj": {
+                "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Repository\\SchoolSystem.Repository.csproj"
+              },
+              "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Repository\\SchoolSystem.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Repository\\SchoolSystem.Repository.csproj",
+        "projectName": "SchoolSystem.Repository",
+        "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Repository\\SchoolSystem.Repository.csproj",
+        "packagesPath": "C:\\Users\\amangla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amangla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/NuGet/nuget/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/NuGet/nuget/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/core/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Tests\\SchoolSystem.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Tests\\SchoolSystem.Tests.csproj",
+        "projectName": "SchoolSystem.Tests",
+        "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Tests\\SchoolSystem.Tests.csproj",
+        "packagesPath": "C:\\Users\\amangla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amangla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/NuGet/nuget/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/NuGet/nuget/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/core/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Business\\SchoolSystem.Business.csproj": {
+                "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Business\\SchoolSystem.Business.csproj"
+              },
+              "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Repository\\SchoolSystem.Repository.csproj": {
+                "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Repository\\SchoolSystem.Repository.csproj"
+              },
+              "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystemApi\\SchoolSystem.Api.csproj": {
+                "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystemApi\\SchoolSystem.Api.csproj"
+              },
+              "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystemApi\\SchoolSystem.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystemApi\\SchoolSystem.Api.csproj",
+        "projectName": "SchoolSystem.Api",
+        "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystemApi\\SchoolSystem.Api.csproj",
+        "packagesPath": "C:\\Users\\amangla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystemApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amangla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/NuGet/nuget/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/NuGet/nuget/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/core/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Business\\SchoolSystem.Business.csproj": {
+                "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\SchoolSystem.Business\\SchoolSystem.Business.csproj"
+              },
+              "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj",
+        "projectName": "StudentSystem.Abstractions",
+        "projectPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\StudentSystem.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\amangla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amangla\\source\\repos\\SchoolSystemApi\\StudentSystem.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amangla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/NuGet/nuget/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/NuGet/nuget/v3/index.json": {},
+          "https://automotivemastermind.pkgs.visualstudio.com/_packaging/core/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

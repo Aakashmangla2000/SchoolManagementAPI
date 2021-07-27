@@ -1,0 +1,14 @@
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\bin\Debug\netcoreapp3.1\SchoolSystem.Business.deps.json
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\bin\Debug\netcoreapp3.1\SchoolSystem.Business.dll
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\bin\Debug\netcoreapp3.1\SchoolSystem.Business.pdb
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\bin\Debug\netcoreapp3.1\SchoolSystem.Repository.dll
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\bin\Debug\netcoreapp3.1\SchoolSystem.Repository.pdb
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\obj\Debug\netcoreapp3.1\SchoolSystem.Business.csproj.AssemblyReference.cache
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\obj\Debug\netcoreapp3.1\SchoolSystem.Business.AssemblyInfoInputs.cache
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\obj\Debug\netcoreapp3.1\SchoolSystem.Business.AssemblyInfo.cs
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\obj\Debug\netcoreapp3.1\SchoolSystem.Business.csproj.CoreCompileInputs.cache
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\obj\Debug\netcoreapp3.1\SchoolSystem.Business.csproj.CopyComplete
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\obj\Debug\netcoreapp3.1\SchoolSystem.Business.dll
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\obj\Debug\netcoreapp3.1\SchoolSystem.Business.pdb
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\bin\Debug\netcoreapp3.1\StudentSystem.Abstractions.dll
+C:\Users\amangla\source\repos\SchoolSystemApi\SchoolSystem.Business\bin\Debug\netcoreapp3.1\StudentSystem.Abstractions.pdb
